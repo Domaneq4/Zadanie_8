@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">checkbox</string>
+    <string name="opakowanie">opakowanie</string>
+    <string name="platnosc">platnosc</string>
+    <string name="dostawa">dostawa</string>
+    <string name="dodatkowe_us_ugi">Dodatkowe usługi</string>
+</resources>
